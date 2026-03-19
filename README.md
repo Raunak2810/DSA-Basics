@@ -4,7 +4,7 @@
 ![Language](https://img.shields.io/badge/Language-C++-blue)
 ![Programs](https://img.shields.io/badge/Programs-22-green)
 ![Status](https://img.shields.io/badge/Status-Learning-orange)
-![Platform](https://img.shields.io/badge/Platform-Linux-lightgrey)
+
 
 Welcome to **DSA-Basics** 🚀
 This repository contains beginner-friendly C++ programs created while learning **Data Structures & Algorithms (DSA)** fundamentals.
