@@ -1,5 +1,4 @@
 # 📘 DSA Basics (C++)
-# 🚀 DSA Basics (C++)
 
 ![Language](https://img.shields.io/badge/Language-C++-blue)
 ![Programs](https://img.shields.io/badge/Programs-22-green)
